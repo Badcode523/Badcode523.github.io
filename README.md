@@ -5,7 +5,7 @@
 #### 作业1主要是利用上次所完成的词频统计，对毕淑敏所写《花冠病毒》一书中主要人物的出现次数进行了可视化处理，分别绘制了涟漪图和漏斗图；出于美观的考虑，我对两个标题的位置进行了修改。
 #### 其中我个人比较喜欢漏斗图，它比较直观地显示出了”罗纬芝”作为唯一的主角，是整本小说的基础，而其余角色都是在她的基础上构建出来的。
    [作业1柱状图](https://badcode523.github.io/%E8%8A%B1%E5%86%A0%E7%97%85%E6%AF%92%E4%BA%BA%E5%90%8D%E7%BB%9F%E8%AE%A1%E6%9F%B1%E7%8A%B6%E5%9B%BE.html)
-   [作业1词云图]()
+   [作业1词云图](https://badcode523.github.io/%E8%8A%B1%E5%86%A0%E7%97%85%E6%AF%92%E4%BA%BA%E5%90%8D%E7%BB%9F%E8%AE%A1%E8%AF%8D%E4%BA%91.html)
    [作业1漏斗图](https://badcode523.github.io/%E8%8A%B1%E5%86%A0%E7%97%85%E6%AF%92%E4%BA%BA%E5%90%8D%E7%BB%9F%E8%AE%A1%E6%BC%8F%E6%96%97%E5%9B%BE.html)
    [作业1涟漪图](https://badcode523.github.io/%E8%8A%B1%E5%86%A0%E7%97%85%E6%AF%92%E4%BA%BA%E5%90%8D%E7%BB%9F%E8%AE%A1%E6%B6%9F%E6%BC%AA%E5%9B%BE.html)
 ## 2.作业2
